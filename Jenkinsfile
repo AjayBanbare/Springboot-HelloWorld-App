@@ -11,8 +11,6 @@ pipeline {
         IMAGE_REPO_NAME = "jenkins-pipeline-kra"
         IMAGE_TAG = "v1"
         REPOSITORY_URI = "661798055669.dkr.ecr.ap-south-1.amazonaws.com/jenkins-pipeline-kra"
-        AWS_ACCESS_KEY_ID = ""
-        AWS_SECRET_ACCESS_KEY = ""
         GITHUB_REPO_URL = 'https://github.com/AjayBanbare/Springboot-HelloWorld-App.git'
         GIT_CREDENTIALS_ID = 'github'
     }
